@@ -1,0 +1,5 @@
+Priya,priya123@gmail.com,Priya123,IT,8.2,8302206095,C,JAVA
+Aaradhya,aaradhya123@gmail.com,Aardhya1,IT,7.9,1234567899,C,C++
+Hardik,hardik12@gmail.com,Hardik1,CSE,8.9,3355667722,C,C++,JAVA
+Rohan,rohan@gmail.com,Rohan12,AI,8.7,5566778899,JAVA,AI
+Ayushi,ayushi@gmail.com,Ayushi1,IT,9.1,1345267890,c++

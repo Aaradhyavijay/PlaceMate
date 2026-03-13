@@ -1,0 +1,27 @@
+priya123@gmail.com,Deloitte,Business Analyst,S
+aaradhya123@gmail.com,Deloitte,Software Engineer,Pending
+priya123@gmail.com,XiaomiTechnology,Design Engineer,Pending
+priya123@gmail.com,SonyIndia,Production Engineer,Pending
+aaradhya123@gmail.com,IBM,Design Engineer,Selected
+deepanshach@gmail.com,Deloitte,Software Engineer,Selected
+deepanshach@gmail.com,Deolitte,Business Analyst ,Selected
+yashvi@gmail.com,JPMorganChase,Data Analyst,Selected
+yashvi@gmail.com,Deloitte,Software Engineer,Pending
+yogita@gmail.com,XiaomiTechnology,Software Engineer,Pending
+hardik12@gmail.com,SonyIndia,Production Engineer,Pending
+hardik12@gmail.com,SonyIndia,Business Analyst,Pending
+aaradhya123@gmail.com,Accenture,Business Analyst,Selected
+priya123@gmail.com,JkTyres,Software Engineer,S
+rohan@gmail.com,XiaomiTechnology,Network Engineer,Pending
+rohan@gmail.com,JPMorganChase,Data Analyst,Selected
+rohan@gmail.com,PwC,Business Analyst,Pending
+abc@gmail.com,JPMorganChase,Data Analyst,Pending
+abc@gmail.com,Deolitte,Business Analyst ,Selected
+aaradhya123@gmail.com,Accenture,Software Engineer,Pending
+aaradhya123@gmail.com,XiaomiTechnology,Data Analyst,Pending
+aaradhya123@gmail.com,JkTyres,Software Engineer,Pending
+ayushi@gmail.com,IBM,Business Analyst,Pending
+ayushi@gmail.com,IBM,designer,Pending
+ayushi@gmail.com,Accenture,Software Engineer,Pending
+ayushi@gmail.com,Accenture,Business Analyst,Pending
+khushi@gmail.com,Accenture,Software Engineer,Selected

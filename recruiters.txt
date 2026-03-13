@@ -1,0 +1,7 @@
+Deolitte,Vaibhav,vaibhav@gmail.com,Vaibhav1,9460049111
+JkTyres,Sanjay Kumar Kalal,Skkalal@gmail.com,Sanjay12,9650493435
+IBM,Manish,manish12@gmail.com,Manish12,1234123456
+JPMorganChase,Saniya,saniya@jpmorgan.com,Saniya12,1122334455
+Accenture,Shilpa,shilpa@accenture.com,Shilpa1,1234567890
+Accenture,Sunaina,sunaina@accenture.com,Sunaina1,3344552211
+meta,Ashu,ashu@meta.com,Ashy12,5566111111
