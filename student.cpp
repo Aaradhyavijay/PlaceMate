@@ -92,7 +92,7 @@ cout << RESET;
     } while(!validPhone);
     cin.ignore();
 
-    cout << "Skills: "; cin >> skills;
+    cout <<WHITE<< "Skills: "<<RESET; cin >> skills;
 
     ofstream out("students.txt", ios::app);
     out<<name<<","<<email<<","<<password<<","<<branch<<","<<cgpa<<","<<phone<<","<<skills<<endl;
