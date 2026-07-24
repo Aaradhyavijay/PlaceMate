@@ -74,7 +74,7 @@ cout << RESET;
 
     // --- Password ---
 
-       cout<<"Passwords(must contain at least 1 uppercase, 6-8 characters and 1 digit):";
+       cout<<WHITE<<"Passwords(must contain at least 1 uppercase, 6-8 characters and 1 digit):"<<RESET;
        password=getValidatedPassword();
     
     bool validContact=false;
@@ -312,7 +312,7 @@ void Recruiter::updateApplicationStatus(){
 
 void Recruiter::deleteJob(){
     cin.ignore();
-    cout<<"Enter Role to Delete: "; string role; getline(cin,role);
+    cout<<WHITE<<"Enter Role to Delete: "<<RESET; string role; getline(cin,role);
     ifstream f("jobs.txt"); ofstream temp("temp.txt"); string line, compFile, roleFile;
     while(getline(f,line)){
         stringstream ss(line); getline(ss,compFile,','); getline(ss,roleFile,',');
