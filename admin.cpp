@@ -254,4 +254,3 @@ void Admin::deleteRecruiter()
         cout << RED << "Recruiter Not Found!\n" << RESET;
     }
 }
-
